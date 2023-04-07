@@ -1,0 +1,5 @@
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.csproj.AssemblyReference.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.AssemblyInfoInputs.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.AssemblyInfo.cs
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.csproj.CoreCompileInputs.cache
