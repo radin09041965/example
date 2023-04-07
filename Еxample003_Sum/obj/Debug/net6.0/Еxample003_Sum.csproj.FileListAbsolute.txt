@@ -1,0 +1,15 @@
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample003_Sum\bin\Debug\net6.0\Еxample003_Sum.exe
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample003_Sum\bin\Debug\net6.0\Еxample003_Sum.deps.json
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample003_Sum\bin\Debug\net6.0\Еxample003_Sum.runtimeconfig.json
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample003_Sum\bin\Debug\net6.0\Еxample003_Sum.dll
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample003_Sum\bin\Debug\net6.0\Еxample003_Sum.pdb
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample003_Sum\obj\Debug\net6.0\Еxample003_Sum.csproj.AssemblyReference.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample003_Sum\obj\Debug\net6.0\Еxample003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample003_Sum\obj\Debug\net6.0\Еxample003_Sum.AssemblyInfoInputs.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample003_Sum\obj\Debug\net6.0\Еxample003_Sum.AssemblyInfo.cs
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample003_Sum\obj\Debug\net6.0\Еxample003_Sum.csproj.CoreCompileInputs.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample003_Sum\obj\Debug\net6.0\Еxample003_Sum.dll
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample003_Sum\obj\Debug\net6.0\refint\Еxample003_Sum.dll
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample003_Sum\obj\Debug\net6.0\Еxample003_Sum.pdb
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample003_Sum\obj\Debug\net6.0\Еxample003_Sum.genruntimeconfig.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample003_Sum\obj\Debug\net6.0\ref\Еxample003_Sum.dll
