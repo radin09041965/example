@@ -1,0 +1,15 @@
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample004_Div\obj\Debug\net6.0\Еxample004_Div.csproj.AssemblyReference.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample004_Div\obj\Debug\net6.0\Еxample004_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample004_Div\obj\Debug\net6.0\Еxample004_Div.AssemblyInfoInputs.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample004_Div\obj\Debug\net6.0\Еxample004_Div.AssemblyInfo.cs
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample004_Div\obj\Debug\net6.0\Еxample004_Div.csproj.CoreCompileInputs.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample004_Div\bin\Debug\net6.0\Еxample004_Div.exe
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample004_Div\bin\Debug\net6.0\Еxample004_Div.deps.json
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample004_Div\bin\Debug\net6.0\Еxample004_Div.runtimeconfig.json
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample004_Div\bin\Debug\net6.0\Еxample004_Div.dll
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample004_Div\bin\Debug\net6.0\Еxample004_Div.pdb
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample004_Div\obj\Debug\net6.0\Еxample004_Div.dll
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample004_Div\obj\Debug\net6.0\refint\Еxample004_Div.dll
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample004_Div\obj\Debug\net6.0\Еxample004_Div.pdb
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample004_Div\obj\Debug\net6.0\Еxample004_Div.genruntimeconfig.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Еxample004_Div\obj\Debug\net6.0\ref\Еxample004_Div.dll
