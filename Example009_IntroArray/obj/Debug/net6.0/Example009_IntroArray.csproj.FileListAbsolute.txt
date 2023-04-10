@@ -1,0 +1,15 @@
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.csproj.AssemblyReference.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.AssemblyInfoInputs.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.AssemblyInfo.cs
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.csproj.CoreCompileInputs.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.exe
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.deps.json
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.runtimeconfig.json
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.dll
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.pdb
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.dll
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Example009_IntroArray\obj\Debug\net6.0\refint\Example009_IntroArray.dll
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.pdb
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.genruntimeconfig.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Exapl\example\Example009_IntroArray\obj\Debug\net6.0\ref\Example009_IntroArray.dll
